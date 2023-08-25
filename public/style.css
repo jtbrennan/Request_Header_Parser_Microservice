@@ -1,0 +1,24 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   font-size: 16px;
+   color: #222;
+   background-color: #fafafa;
+   text-align: center;
+   line-height: 1.4em;
+}
+
+.container {
+   padding: 0;
+}
+
+pre {
+   font-family: monospace;
+   padding: 10px;
+   background-color: #f0f0f0;
+   border: 1px solid #ccc;
+   overflow-x: auto;
+}
+
+.footer {
+   margin-top: 40px;
+}
